@@ -13,7 +13,7 @@ The ESP32 reads two physical sensors and transmits the data wirelessly:
 
 ## Hardware Setup
 
-- **MCU:** ESP32 (Arduino Uno R3 form factor, tested with ESP32 DevKit V1)
+- **MCU:** ESP32
 - **Inputs:** 
   - 1x Potentiometer (GPIO 36 - ADC input, throttle simulation)
   - 1x HC-SR04 Ultrasonic Sensor (Trig: GPIO 5, Echo: GPIO 18 - distance measurement)
